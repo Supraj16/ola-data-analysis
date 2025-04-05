@@ -14,7 +14,7 @@ This project analyzes Ola cab booking data using MySQL and Power BI.
 ## Files Included
 - `SQL/ola_queries.sql` – All SQL queries
 - `Dashboard/dashboard.pbix` – Power BI dashboard
-- `Dashboard/visuals.png` – Screenshot of the dashboard *(optional)*
+- `Dashboard/visuals.png` – Screenshot of the dashboard 
 
 ---
 
